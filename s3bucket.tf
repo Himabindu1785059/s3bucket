@@ -1,6 +1,6 @@
 resource "aws_s3_bucket" "storage bucket" {
 
-  bucket = "s3_bucket"
+  bucket = "himabucket"
 
   acl    = "public-read"
 
